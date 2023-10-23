@@ -17,7 +17,7 @@ it should look like this
 git init
 git add .
 git commit -m "first commit"
-git remote add origin git@git.generalassemb.ly:SEI-CC/test.git // this will be whatever your address will be
+git remote add origin https://github.com/djones1117/Mern-Vite-BoilerPlate // this will be whatever your address will be
 git push -u origin main
 ```
 
